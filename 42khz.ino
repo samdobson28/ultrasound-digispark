@@ -2,7 +2,7 @@
     microphone jammer
     - ATTINY85 / DIGISPARK version
 
-        THIS IS 40 KHZ VERSION !!!
+        THIS IS 42 KHZ VERSION !!!
 
     CONNECTION
     --------
